@@ -4,8 +4,8 @@
 
 🤖 **About me**
 
-- 🔭 Main used: Python
-- 🔍 About me: A GISer, researching marine optical remote sensing and machine learning
+- 🔭 Main used: Python, Rust
+- 🔍 About me: A GISer, researching marine optical remote sensing and machine learning. I also have great interest in image generation.
 - 📫 Mail: Isotr0py@outlook.com
 - 📕 Blog: [Isotr0py's Blog](https://isotr0py.github.io/)
 - 🌐 Languages: English, 中文, 日本語
