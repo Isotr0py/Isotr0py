@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=isotr0py&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=isotr0py&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
     </td>
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isotr0py&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io" />
