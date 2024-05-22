@@ -9,16 +9,12 @@
   </tr>
 </table>
 
-🤖 **About me**
+### 🤖 **About me**
 
-- 🔭 Main used: Python, Rust
-- 🔍 About me: A GISer, researching marine optical remote sensing and machine learning. I also have great interest in image generation.
-- 📫 Mail: Isotr0py@outlook.com
-- 📕 Blog: [Isotr0py's Blog](https://isotr0py.github.io/)
-- 🌐 Languages: English, 中文, 日本語
+A GISer, researching marine optical remote sensing and machine learning. I also have great interest in image generation.
 
-📜 **Skills**
-- ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+### 📜 **Skills**
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Rust-darksalmon?style=flat-square&logo=Rust&logoColor=fff)
 ![](https://img.shields.io/badge/Linux-DAA520?style=flat-square&logo=linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-B22222?style=flat-square&logo=Git&logoColor=fff)
