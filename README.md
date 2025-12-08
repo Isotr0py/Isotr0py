@@ -8,7 +8,7 @@
     </td>
   </tr>
   <td colspan=2>
-        <img src="https://github-profile-trophy.vercel.app/?username=isotr0py&title=-Followers&theme=algolia&no-bg=true&no-frame=true" />
+        <img src="https://github-profile-trophy-git-main-isotr0pys-projects.vercel.app/?username=Isotr0py&title=-Followers&theme=algolia&no-bg=true&no-frame=true" />
   </td>
 </table>
 
