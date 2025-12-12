@@ -4,7 +4,7 @@
         <img src="https://github-readme-stats-git-main-isotr0pys-projects.vercel.app/api?username=Isotr0py&hide_border=true&show_icons=true&theme=transparent&count_private=true" />
     </td>
     <td>
-        <img src="https://github-readme-stats-git-main-isotr0pys-projects.vercel.app/api/top-langs/?username=Isotr0py&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io&langs_count=8" />
+        <img src="https://github-readme-stats-git-main-isotr0pys-projects.vercel.app/api/top-langs/?username=Isotr0py&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io,github-profile-trophy,github-readme-stats&langs_count=8" />
     </td>
   </tr>
   <td colspan=2>
