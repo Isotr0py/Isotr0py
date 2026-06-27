@@ -14,7 +14,7 @@
 
 ### 🤖 **About me**
 
-A GISer, researching marine optical remote sensing and machine learning. I also have great interest in image generation.
+🏎️ Love to make LLM run fast. 😋
 
 ### 📜 **Skills**
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
